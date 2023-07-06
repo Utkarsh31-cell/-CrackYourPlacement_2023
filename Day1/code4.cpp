@@ -1,5 +1,6 @@
 //problem link -> https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
 //{ Driver Code Starts
+//here in this problem we have to distribute array sum choclate among m people such that difference between maximum and minimum is minimum //in case of binary search we have to distibute thing n sum among m people such that difference between minimum and maximum is maximum
 #include <bits/stdc++.h>
 using namespace std;
 
