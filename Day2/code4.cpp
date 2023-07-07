@@ -1,3 +1,4 @@
+//Problem link->https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/3073460/prefix-sum-number-theory-intuition-o-n-time-o-k-space/
 /*Learning of the Day
 Intuition
 Approach is based on the idea of prefix sums and a bit of number theory. I have discussed both below.
